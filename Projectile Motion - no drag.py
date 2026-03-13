@@ -8,7 +8,7 @@ np.set_printoptions(suppress=True)
 rng = np.random.default_rng(seed = 42) # Allows for consistent reproducibility
 
 
-# Constant for the acceleration due to gravity
+# Constants 
 G = 9.81
 MIN_VELOCITY = 10
 MAX_VELOCITY = 50
